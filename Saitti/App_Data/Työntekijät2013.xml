@@ -42,4 +42,11 @@
     <tyosuhde>vakituinen</tyosuhde>
     <palkka>2000</palkka>
   </tyontekija>
+  <tyontekija>
+    <etunimi>Esa</etunimi>
+    <sukunimi>Salmikangas</sukunimi>
+    <numero>101</numero>
+    <tyosuhde>määräaikainen</tyosuhde>
+    <palkka>3000</palkka>
+  </tyontekija>
 </tyontekijat>
