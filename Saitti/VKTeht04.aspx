@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="VKTeht08.aspx.cs" Inherits="VKTeht08" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="VKTeht04.aspx.cs" Inherits="VKTeht04" %>
 
 <!DOCTYPE html>
 
@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        
+    
     </div>
     </form>
 </body>
